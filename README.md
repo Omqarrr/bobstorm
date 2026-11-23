@@ -355,6 +355,8 @@ Bob is instructed to **never ask for clarification**, never reference the worksp
 
 Access at `http://localhost:8501`.
 
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/afe86112-e25e-4066-9ea7-4772f7f26966" />
+
 **Sidebar controls:**
 - 🔍 **Full-Text Search** — searches across issue title, body, and Bob's response
 - **Quick Topic Filters** — one-click filter buttons for NSX, ESXi/PSOD, Certificates, Disconnected
